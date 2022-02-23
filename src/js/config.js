@@ -3,3 +3,4 @@ export const TIMEOUT_SEC = 10;
 export const RESULTS_PER_PAGE = 10;
 export const KEY = 'f2a9dba4-4033-4639-bbd6-dcbc99074a3b';
 export const MODAL_CLOSE_SEC = 2.5;
+const hello = 'hello';
